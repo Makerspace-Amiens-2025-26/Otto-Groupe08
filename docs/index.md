@@ -11,7 +11,7 @@ Bienvenue dans la documentation officielle du projet **OTTO-JÄGER** réalisé p
 
 Notre robot se distingue par son identité unique : l'**OTTO-JÄGER**, un nom et un design directement inspirés de l'univers graphique et de l'esprit de la célèbre marque **Jägermeister** !
 
-[Notre projet sur OnShape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857778/w/82b3c0e474623195ccb76fa3/e/0cab16137cd459ea83eba56e?renderMode=0&uiState=6936dc0e2c)
+[Notre projet sur OnShape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857778/w/82b3c0e474623195ccb76fa3/e/0cab16137cd459ea83eba56e?renderMode=0&uiState=6936dc0e2c){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857778&wvm=v&wvnid=6289fca954e7770df59e5a2f&eid=0cab16137cd459ea83eba56e"></iframe>
