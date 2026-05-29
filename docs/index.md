@@ -5,41 +5,32 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# 🤖 Bienvenue sur la documentation de l'OTTO-JÄGER
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation officielle du projet **OTTO-JÄGER** réalisé par le **Groupe 08**. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, concevoir, programmer et reproduire efficacement notre version personnalisée du robot humanoïde au sein du MakerSpace d'**UniLaSalle Amiens**.
 
-[Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+Notre robot se distingue par son identité unique : l'**OTTO-JÄGER**, un nom et un design directement inspirés de l'univers graphique et de l'esprit de la célèbre marque **Jägermeister** !
+
+[Notre projet sur OnShape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857778/w/82b3c0e474623195ccb76fa3/e/0cab16137cd459ea83eba56e?renderMode=0&uiState=6936dc0e2c)
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857778&wvm=v&wvnid=6289fca954e7770df59e5a2f&eid=0cab16137cd459ea83eba56e"></iframe>
 
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
-
-
-## À propos du Projet
-
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
-
-
-## Poster
-
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
-
-## Vidéo
-
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
-
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+{: .note }
+> **Visualisation 3D :** Modèle CAO interactif de l'OTTO-JÄGER synchronisé depuis notre espace OnShape via l'outil Modelembedder. Vous pouvez manipuler le robot directement ci-dessus pour observer sa structure et son intégration.
 
 ---
+
+## 📋 À propos du Projet
+
+Ce projet de première année a pour objectif d'adapter et d'améliorer le robot open-source **Otto** pour en faire une version sur mesure. Basé sur une carte microcontrôleur **ESP32** développée au MakerSpace, l'**OTTO-JÄGER** combine nos compétences naissantes en ingénierie, modélisation 3D (CAO), impression 3D et programmation embarquée.
+
+Au-delà de ses spécifications techniques (contrôle à distance via l'application RemoteXY, capteur ultrason pour l'évitement d'obstacles, déplacements pédestres synchronisés), le robot arbore fièrement une thématique forte liée au Jägermeister qui se reflétera dans sa personnalisation esthétique lors de l'homologation. Notre objectif principal reste inchangé : être prêts et compétitifs pour surmonter toutes les épreuves des **Ottolympiades** en fin d'année !
+
+---
+
+## 🎥 Présentation Vidéo
+
+Voici la vidéo de présentation de notre prototype (format portrait 1min30), incluant les explications de notre code de programmation, des démonstrations du fonctionnement des servomoteurs en mode autonome/télécommandé et les plans de notre conception 3D :
+
+<video src="images/intro_amiens.mp4" controls title="Présentation OTTO-JÄGER - Groupe 08" style="width: 100%;"></video>
