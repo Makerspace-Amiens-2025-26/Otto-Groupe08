@@ -1,27 +1,29 @@
 ---
 layout: default
-title: Etapes de fabrication
+title: Étapes de fabrication
 nav_order: 5
 has_children: true
 ---
 
 # Étapes de Fabrication
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+Bienvenue dans la section dédiée aux étapes de fabrication de l'**OTTO-JÄGER**. Vous trouverez ici les guides détaillés et structurés pour accompagner pas à pas l'assemblage, la configuration et la personnalisation de notre robot au MakerSpace.
 
 ## Aperçu des Étapes
 
-Le processus de fabrication est divisé en plusieurs étapes clés :
+Le processus de fabrication de notre version modifiée est divisé en 4 étapes clés indispensables :
 
-1. [Préparation des Matériaux](etape_1)
-2. [Assemblage](etape_2)
-3. [Finition]()
-4. [Contrôle Qualité]()
+1. [Modélisation & Impression 3D](etapes_1) — Adaptation du design sur OnShape et impression du châssis aux couleurs de Jägermeister.
+2. [Assemblage Mécanique](etapes_2) — Intégration des 4 servomoteurs, de la batterie 9V USB-C et montage de la structure pédestre.
+3. [Programmation & Étalonnage](etapes_3) — Calibration des servomoteurs et téléversement des codes via l'IDE Arduino.
+4. [Tests & Homologation](etapes_4) — Vérification de la conformité du robot (boîte de 15x15x20 cm) et validation du bouton d'arrêt d'urgence par l'arbitre.
 
 ## Commencer
 
-Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tous les outils et matériaux nécessaires. Suivez les étapes dans l'ordre pour garantir la qualité et l'efficacité du processus de fabrication.
+> **Avant de débuter :** Assurez-vous de disposer de l'ensemble des composants fournis par le MakerSpace (carte ESP32, capteur ultrason, servomoteurs, visserie) et d'avoir validé l'export de vos pièces thématiques imprimées en 3D. 
+
+Suivez scrupuleusement l'ordre des étapes pour garantir la stabilité cinématique du robot et éviter tout problème lors des phases de tests préliminaires.
 
 ---
 
-Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
+Pour toute question ou aide lors d'une manipulation au MakerSpace, n'hésitez pas à solliciter les membres de l'équipe du Groupe 08 ou les encadrants du laboratoire.

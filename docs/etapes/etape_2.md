@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assemblage
+title: Assemblage Mécanique
 parent: Etapes de fabrication
 nav_order: 2
 ---

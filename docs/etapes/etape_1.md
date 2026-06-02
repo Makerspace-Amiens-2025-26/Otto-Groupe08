@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Préparation des Matériaux
+title: Modélisation & Impression 3D
 parent: Etapes de fabrication
 nav_order: 1
 ---
