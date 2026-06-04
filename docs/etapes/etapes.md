@@ -11,12 +11,16 @@ Bienvenue dans la section dédiée aux étapes de fabrication de l'**OTTO-JÄGER
 
 ## Aperçu des Étapes
 
-Le processus de fabrication de notre version modifiée est divisé en 4 étapes clés indispensables :
+Voici les différentes étapes du processus de fabrication. Cliquez sur l'une d'elles pour accéder au guide détaillé :
 
-1. [Modélisation & Impression 3D](etape_1) — Adaptation du design sur OnShape et impression du châssis aux couleurs de Jägermeister.
-2. [Assemblage Mécanique](etape_2) — Intégration des 4 servomoteurs, de la batterie 9V USB-C et montage de la structure pédestre.
-3. [Programmation & Étalonnage](etape_3) — Calibration des servomoteurs et téléversement des codes via l'IDE Arduino.
-4. [Tests & Homologation](etape_4) — Vérification de la conformité du robot (boîte de 15x15x20 cm) et validation du bouton d'arrêt d'urgence par l'arbitre.
+<ul>
+  {% for child in page.children %}
+    <li>
+      <strong><a href="{{ child.url | relative_url }}">{{ child.title }}</a></strong>
+      {% if child.description %} — {{ child.description }}{% endif %}
+    </li>
+  {% endfor %}
+</ul>
 
 ## Commencer
 
