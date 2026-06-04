@@ -23,8 +23,8 @@ Un match parfait. On pousse le robot adverse orange et blanc hors du baril IGOL.
 
 ### ⚔️ La Grande Finale : En deux rounds
 
-#### Round 1 : On gagne ! 🥇
-Une vraie démonstration de force, on maîtrise le combat et on gagne la première manche.
+#### Round 1 : 
+Une vraie démonstration de force de notre adversaire contre qui on ne peux rien faire...
 
 <video src="{{ '/images/IMG_1870.MOV' | relative_url }}" controls width="100%" style="max-width: 400px; border-radius: 8px;"></video>
 
