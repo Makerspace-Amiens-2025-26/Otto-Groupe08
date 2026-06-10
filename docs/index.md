@@ -32,6 +32,6 @@ Au-delà de ses spécifications techniques (contrôle à distance via l'applicat
 
 ## 🎥 Présentation Vidéo
 
-Voici la vidéo de présentation de notre prototype (format portrait 1min30), incluant les explications de notre code de programmation, des démonstrations du fonctionnement des servomoteurs en mode autonome/télécommandé et les plans de notre conception 3D :
+Voici la vidéo de présentation de notre prototype :
 
 <video src="{{ '/images/Vidéo.mov' | relative_url }}" controls title="Présentation OTTO-JÄGER - Groupe 08" style="width: 100%; max-width: 500px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"></video>
