@@ -1,3 +1,8 @@
+Voici le code complet mis à jour pour votre page d'**Accueil** (`index.md`).
+
+La balise `<video>` locale a été remplacée par un bloc `<iframe>` permettant d'intégrer proprement votre vidéo YouTube. Comme la vidéo est au **format portrait**, les dimensions ont été adaptées (`max-width: 350px` et `height="600"`) pour qu'elle s'affiche parfaitement comme sur un écran de smartphone :
+
+```markdown
 ---
 layout: home
 nav_order: 1
@@ -34,4 +39,6 @@ Au-delà de ses spécifications techniques (contrôle à distance via l'applicat
 
 Voici la vidéo de montage de notre OTTO :
 
-<video src="{{ '/images/Vidéo.mov' | relative_url }}" controls title="Présentation OTTO-JÄGER - Groupe 08" style="width: 100%; max-width: 500px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"></video>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/SA4XRxgVHhQ" title="Présentation OTTO-JÄGER - Groupe 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 350px; display: block; margin: 0 auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"></iframe>
+
+```
