@@ -1,7 +1,3 @@
-Voici le code complet mis à jour pour votre page d'**Accueil** (`index.md`).
-
-La balise `<video>` locale a été remplacée par un bloc `<iframe>` permettant d'intégrer proprement votre vidéo YouTube. Comme la vidéo est au **format portrait**, les dimensions ont été adaptées (`max-width: 350px` et `height="600"`) pour qu'elle s'affiche parfaitement comme sur un écran de smartphone :
-
 ```markdown
 ---
 layout: home
